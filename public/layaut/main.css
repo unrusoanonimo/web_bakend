@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+    font-size: 0;
+}
+
+#container {
+    width: 400px;
+    border: 1px solid red;
+}
+
+#logo {
+    font-size: 12pt;
+    width: 200px;
+    display: inline-block;
+    background-color: darkblue;
+
+}
+
+#login {
+    font-size: 12pt;
+    width: 198px;
+    display: inline-block;
+    background-color: aqua;
+
+
+}
+
+/* header * {} */
